@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Causal reinforcement learning",
+    "category": "AI & research",
+    "status": "Research in progress",
+    "kind": "causal",
+    "desc": "Teaching trading systems to look beyond correlation.",
+    "stack": "Python \u00b7 NOTEARS \u00b7 Structural Causal Models \u00b7 DQN \u00b7 SAC",
+    "body": "My final-year project combines causal discovery and reinforcement learning across 30 financial assets. It evaluates Dueling Double DQN and Discrete SAC against non-causal baselines, with statistical significance testing and a seven-model ablation study.",
+    "repo": null
+  },
+  {
+    "title": "Document forgery detection",
+    "category": "AI & research",
+    "status": "May 2026",
+    "kind": "document",
+    "desc": "Five architectures. One question: can we trust this document?",
+    "stack": "Python \u00b7 TensorFlow / PyTorch \u00b7 Computer vision",
+    "body": "Implemented and compared Custom CNN, EfficientNetB0, ResNet50, MobileNetV2 and a hybrid architecture for forged or manipulated document classification. Benchmarked accuracy, precision, recall and F1 to compare performance.",
+    "repo": "Document-Forgery-Detection"
+  },
+  {
+    "title": "RhythmX",
+    "category": "AI & research",
+    "status": "June 2024",
+    "kind": "music",
+    "desc": "A different route to your next favourite track.",
+    "stack": "React \u00b7 FastAPI \u00b7 MongoDB \u00b7 scikit-learn \u00b7 Librosa",
+    "body": "A full-stack music discovery platform. K-Means groups tracks by energy, valence and tempo; Apriori association rules use community listening patterns to recommend niche tracks beyond mainstream popularity.",
+    "repo": "RhytmX"
+  },
+  {
+    "title": "HackSurge X",
+    "category": "Web & software",
+    "status": "Event website",
+    "kind": "hack",
+    "desc": "A hackathon experience with an electric first impression.",
+    "stack": "HTML \u00b7 CSS \u00b7 JavaScript \u00b7 Canvas",
+    "body": "An animated, framework-free event landing page with a countdown, event timeline, Canvas particles and custom cursor interactions. Built for responsive screens and a cinematic event identity.",
+    "repo": "HackSurgeX",
+    "demo": "https://hack-surge-x.vercel.app/"
+  },
+  {
+    "title": "Bank ATM simulation",
+    "category": "Web & software",
+    "status": "January 2025",
+    "kind": "bank",
+    "desc": "Account rules, transactions and data structures in action.",
+    "stack": "C++ \u00b7 OOP \u00b7 Stacks \u00b7 Queues \u00b7 Vectors",
+    "body": "A console banking simulation covering account registration, authentication and fund transfers. Implements minimum-balance rules and service charges for savings and current accounts.",
+    "repo": "Bank_app"
+  },
+  {
+    "title": "AI Mentor",
+    "category": "AI & research",
+    "status": "NMIT Hacks \u00b7 May 2024",
+    "kind": "mentor",
+    "desc": "A starting point for students who need a little direction.",
+    "stack": "Gemini API \u00b7 Python \u00b7 HTML \u00b7 CSS \u00b7 JavaScript",
+    "body": "Built the complete frontend and integrated the Gemini API for personalised academic guidance. Prototyped adaptive, context-aware student support during a 48-hour hackathon.",
+    "repo": null
+  },
+  {
+    "title": "UniteBLR",
+    "category": "Web & software",
+    "status": "Work in progress",
+    "kind": "unite",
+    "desc": "Bringing campus clubs, people and opportunities together.",
+    "stack": "Campus community \u00b7 Product development",
+    "body": "A campus clubs platform in development, focused on discovering clubs, events and recruitment opportunities and helping student communities stay connected.",
+    "repo": null
+  },
+  {
+    "title": "FontForge",
+    "category": "AI & research",
+    "status": "Work in progress",
+    "kind": "font",
+    "desc": "Handwriting has personality. I\u2019m exploring how to preserve it.",
+    "stack": "Handwriting generation \u00b7 Experimental project",
+    "body": "My handwriting generator project, currently in development. Exploring personalised handwriting generation. The artwork shown here is a typographic illustration, not a generated handwriting sample.",
+    "repo": null
+  }
+]
